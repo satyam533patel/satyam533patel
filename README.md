@@ -1,6 +1,6 @@
 # Hi there, I'm Satyam Patel 👋
 
-🎓 21 y/o | 🧠 Passionate Developer | 📍 Google SWE Intern | 💻 Competitive Programmer  
+🎓| 🧠 Passionate Developer | 📍 Google SWE Intern | 💻 Competitive Programmer  
 🚀 Driven by impact, collaboration, and building meaningful tech.
 
 ---
